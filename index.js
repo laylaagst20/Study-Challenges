@@ -1,2 +1,1 @@
-console.log("Mandar tudo para o github")
-console.log("deu certo?")
+console.log("origin main deu certo?")
